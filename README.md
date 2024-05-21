@@ -1,6 +1,7 @@
 # sqlalchemy-challenge
 
-## Please note that my "Data" files are located within my "EmployeeSQL" folder.
+## Please note that my Jupyter Notebook is located inside the "SurfsUp" folder.
+
 Instructions:
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area.
 
